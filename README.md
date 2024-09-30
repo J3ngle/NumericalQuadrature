@@ -1,0 +1,3 @@
+In this report we explore the computational powers and accuracy of numerical integration or quadrature. The three types of quadrature that we consider through this project are: Composite Trapezoidal rule, Composite Mid-Point rule and Composite Simpsons. To implement these methods we consider the test integral about the function ∫03 exdx = e3 − 1 ≈ 19.0855. We will then discuss the draw backs and advantages to these types of methods with varying error tolerances. We will then compare these results with the theoretical bounds which should be satisfied. Graphs and other visual aids are provided to further emphasize the error analysis as well as draw backs and advantages.
+
+Please reffer to the file FCM_2_Project_3_JEngle-2.pdf for full details, derivation and results.
